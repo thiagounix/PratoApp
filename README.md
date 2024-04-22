@@ -1,3 +1,8 @@
+*Executável ja na branch.*
+
+
+
+
 Jogos dos Pratos
 Você deverá implementar em .Net com exatamente o mesmo comportamento e características, o mais OO e o mais simples possível. Precisamos que nos envie o código fonte e o executável para auxiliar na avaliação da sua aplicação.
 
